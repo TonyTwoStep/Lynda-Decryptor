@@ -3,7 +3,7 @@ This tool is the easiest way to bulk decrypt all offline Lynda videos to .mp4 fo
 The original tool was made by h4ck-rOOt this slight rework adds an interactive Python wrapper and automation.
 
 ## Usage
-- Clone or download the repository and run lynda_downloader.py
+- Clone or download the repository and run lynda_decryptor.py from a command prompt
 - Input the pathes to your course directory and db.sqlite (can be found from the options menu of the Lynda desktop app)
 - Select "A" to decrypt all downloaded courses, this also removes the encrypted files once done.
 
