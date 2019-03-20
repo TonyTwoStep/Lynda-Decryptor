@@ -1,6 +1,7 @@
 # Automated Python Wrapper for Lynda-Decryptor
-This tool is the easiest way to bulk decrypt all offline Lynda videos to .mp4 format with a proper folder structure and naming. 
-The original tool was made by h4ck-rOOt this slight rework adds an interactive Python wrapper and automation.
+This tool is the easiest way to bulk decrypt all offline Lynda videos to .mp4 format with a proper folder structure and naming.
+
+The original tool was made by h4ck-rOOt this slight rework adds an interactive Python wrapper and automation for getting many courses' videos with one click.
 
 ## Usage
 - Clone or download the repository and run lynda_decryptor.py from a command prompt
