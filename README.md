@@ -4,7 +4,8 @@ This tool is the easiest way to bulk decrypt all offline Lynda videos to .mp4 fo
 The original tool was made by h4ck-rOOt this slight rework adds an interactive Python wrapper and automation for getting many courses' videos with one click.
 
 ## Usage
-### Arguments
+Simply clone or download this repository and run `python lynda_decryptor.py` with the desired arguments and switches
+### Arguments / Switches
 * **--all**: (recommended option) automatically decrypts all courses that were downloaded  
 * **--list**: list the course IDs of all downloaded Lynda courses that have not previously been decrypted
 * **--id**: (takes one or more arguments) provide ID(s) of courses to individually decrpyt and output their videos
